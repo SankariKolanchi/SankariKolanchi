@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📝 I regularly write articles on [https://spicacodes.blogspot.com/](https://spicacodes.blogspot.com/)
+-
 
 - 💬 Ask me about **, C++, **
 
